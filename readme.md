@@ -1,6 +1,4 @@
-line
-
-
+line  
 another line
 
 
